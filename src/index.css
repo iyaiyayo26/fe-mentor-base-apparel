@@ -17,6 +17,15 @@ body {
   width: 300px;
 }
 
-/* ::placeholder {
-  color: red;
-} */
+.hero-desktop {
+  display: none;
+}
+
+@media (min-width: 1024px) {
+  .hero-mobile {
+    display: none;
+  }
+  .hero-desktop {
+    display: block;
+  }
+}
