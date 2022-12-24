@@ -34,7 +34,7 @@ function App() {
           {/* judul + desc + inputan */}
           <section className="desc mb-20 lg:pr-5">
             <div className="title uppercase tracking-widest text-center mt-10 text-3xl mb-5 lg:text-left">
-              <h1 className="font-light text-Desaturated-Red md:text-red-500 lg:text-blue-500 xl:text-yellow-400">We're</h1>
+              <h1 className="font-light text-Desaturated-Red">We're</h1>
               <h1 className="font-semibold">coming</h1>
               <h1 className="font-semibold">soon</h1>
             </div>
